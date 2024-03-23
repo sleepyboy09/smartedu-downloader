@@ -2,7 +2,9 @@
 该工具目前还不完善，仅为个人使用
 
 ## Requirements
-`pip install requests`
+```
+pip install requests
+```
 
 ## 使用方法
 ```
